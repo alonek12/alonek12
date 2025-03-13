@@ -28,6 +28,7 @@ Command Line Interfaces (CLI): Powershell, Windows Bash(CMD), Node.js
 
 🔍 About Me
 
+I’m a **developer, reverse engineer, and code enthusiast** with a passion for breaking things down and building them back up—smarter and more efficient. My journey into tech started with a deep curiosity for how systems work, leading me to explore **game development, automation, and vulnerability testing**.  
 
 📈 Current Projects
 
