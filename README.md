@@ -1,6 +1,6 @@
 👋 Hi, I’m @Alone (Jayden Herron)
 
-👀 I’m interested in Game Development, Vaurability tresting, and Coding
+👀 I’m interested in Game Development, Vaurability testing, and Coding
 
 🌱 I’m currently learning Linux, C#, and Reverse Engineering.
 
