@@ -37,4 +37,5 @@ DiscordRPCWebsiteExtended: User Account Automation: Automating user account proc
 Python (Color Coded Triggerbot): A Triggerbot Coded in Python that uses opencv and the necessary libararies to perform image recognition based off certain colors then it snaps to target(color) and it simulates a fire most games it's just simulating left click.
 
 Automation Script Devving : Currently taking request for script ideas in other automation languages such as AHK, Tampermonkey(not rlly automation) things of that nature.
-Rikko — Today at 7:06 PM
+
+Stay with me throughout my journey.
